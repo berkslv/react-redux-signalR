@@ -1,5 +1,5 @@
+[<code><img height="18" width="40" src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg"></code>](https://github.com/berkslv/react-redux-signalR/blob/master/README.md)
 [<code><img height="20" width="40" src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/tr.svg"></code>](https://github.com/berkslv/react-redux-signalR/blob/master/README.tr.md)
-[<code><img height="15" width="40" src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg"></code>](https://github.com/berkslv/react-redux-signalR/blob/master/README.md)
 
 ## Bu proje nedir?
 

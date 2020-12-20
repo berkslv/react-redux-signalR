@@ -17,3 +17,4 @@ To use redux and signalR together, signalR operations should be done from a cust
  - Redux/rootReducer
  - Redux/store
  - Components/Chat
+ 

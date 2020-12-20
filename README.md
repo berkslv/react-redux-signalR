@@ -1,3 +1,6 @@
+[<code><img height="20" width="40" src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/tr.svg"></code>](https://github.com/berkslv/react-redux-signalR/blob/master/README.tr.md)
+[<code><img height="15" width="40" src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg"></code>](https://github.com/berkslv/react-redux-signalR/blob/master/README.md)
+
 ## What is this?
 
 This project was created to explain as much as I can the suitable method to use the react - redux - signalR trio together.

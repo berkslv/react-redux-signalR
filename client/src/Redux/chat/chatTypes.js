@@ -1,0 +1,4 @@
+export const types = {
+    SEND_MESSAGE : "SEND_MESSAGE",
+    RECEIVED_MESSAGE : "RECEIVED_MESSAGE"
+}
